@@ -8,6 +8,6 @@ function calcularPromedio(numeros) {
     return suma / numeros.length;
 }
 
-const valores = [50, 35, 15, 60];
+const valores = [67, 35, 15, 67];
 
 console.log("Promedio:", calcularPromedio(valores));
